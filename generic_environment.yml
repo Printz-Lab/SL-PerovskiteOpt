@@ -12,6 +12,7 @@ dependencies:
   - pip:
       - emukit==0.4.9
       - gpy==1.10.0
+      - gpyopt
       - openpyxl
       - pydoe==0.3.8
       - numpy==1.21.0
